@@ -40,7 +40,7 @@ export const Expertise = () => {
           <ExpertiseCard 
             icon={<Globe size={40} />}
             title="Doctorat en Droit International Public Université de Kisangani"
-            description="These sur: l'Etat congolais face a l'obligation de protéger les populations ciles victimes des conflits armés de l'Ituri et du Nord-Kivu. Mention grande distinction."
+            description="These sur: l'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu. Mention grande distinction."
           />
           
           <ExpertiseCard 
@@ -52,13 +52,13 @@ export const Expertise = () => {
           <ExpertiseCard 
             icon={<Building size={40} />}
             title="Inscription au Barreau"
-            description="Ordre des Avocats de la République Dvmocratique du Congo. Admission a la pratique du droit avec spvcialisation droit international pénal et droits humains, libertés publiques."
+            description="Ordre des Avocats de la République Démocratique du Congo. Admission à la pratique du droit avec spécialisation droit international pénal et droits humains, libertés publiques."
           />
           
           <ExpertiseCard 
             icon={<Gavel size={40} />}
             title="Droit International Public"
-            description="Spéciaiste de droit international pénal et droit des conflits armés. Avec une plus value sur les relations enre Etats, des traités internationaux et du fonctionnement des organisations internationales."
+            description="Spécialiste de droit international pénal et droit des conflits armés. Avec une plus value sur les relations entre États, des traités internationaux et du fonctionnement des organisations internationales."
           />
           
           <ExpertiseCard 

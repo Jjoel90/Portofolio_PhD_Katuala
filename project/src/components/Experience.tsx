@@ -51,40 +51,40 @@ export const Experience = () => {
           <div className="hidden md:block absolute left-1/2 transform -translate-x-1/2 h-full w-0.5 bg-amber-600/20"></div>
           
           <TimelineItem 
-            year="2020 - Présent"
-            title="Maître de Conférences en Droit International"
+            year="2024 - Présent"
+            title="Professeur des Universités"
             subtitle="Université Internationale"
-            description="Enseignement du droit international, des droits humains et encadrement des recherches doctorales."
+            description="Enseignement du droit international public, des droits des humains et encadrement des recherches doctorales."
           />
-          
+
           <TimelineItem 
-            year="2018 - Présent"
-            title="Avocat Senior"
-            subtitle="Cabinet International de Droit"
-            description="Représentation d'États et d'organisations internationales dans des litiges complexes devant les juridictions internationales."
-            isLeft={true}
+            year="2024"
+            title="Doctorat en Droit International Public"
+            subtitle="Université de Kisangani"
+            description="Thèse sur 'L'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu.' - Mention grande distinction avec félicitations du jury."
           />
-          
+
           <TimelineItem 
-            year="2016"
-            title="Doctorat en Droit International"
-            subtitle="Université de Prestige"
-            description="Thèse sur 'La justice transitionnelle et le droit international: défis et perspectives' - Mention très honorable avec félicitations du jury."
-          />
-          
-          <TimelineItem 
-            year="2014"
+            year="2019"
             title="Inscription au Barreau"
-            subtitle="Ordre des Avocats"
-            description="Admission à la pratique du droit avec spécialisation en droit international et droit des droits humains."
+            subtitle="Ordre des Avocats de la RDC"
+            description="Admission à la pratique du droit avec spécialisation en droit international et droit des droits humains, libertés publiques."
+            isLeft={true}
+          />
+
+          <TimelineItem 
+            year="2019 - Présent"
+            title="Coordonateur Provincial"
+            subtitle="Organisation Non Gouvernementale"
+            description="De l'association Renouveau pour la paix et l'ordre social dans la province de la Tshopo."
             isLeft={true}
           />
           
           <TimelineItem 
-            year="2012"
-            title="Master en Droit International"
-            subtitle="Université Renommée"
-            description="Spécialisation en justice internationale et droits humains - Major de promotion."
+            year="2017"
+            title="Formateur des formateurs"
+            subtitle="Formations"
+            description="En droit international humanitaire."
           />
         </div>
       </div>
