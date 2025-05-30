@@ -14,11 +14,11 @@ export const Hero = () => {
         <div className="animate-fadeIn">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold mb-4 tracking-tight">
             <span className="block">Me. KATUALA GIZE Regis</span>
-            <span className="text-amber-400 mt-2 block text-2xl md:text-3xl lg:text-4xl">PhD & Maître Avocat</span>
+            <span className="text-amber-400 mt-2 block text-2xl md:text-3xl lg:text-4xl">PhD & Avocat</span>
           </h1>
           
           <p className="max-w-2xl mx-auto text-lg md:text-xl text-gray-300 mt-6">
-            Expert en droit international et spécialiste en justice transitionnelle
+            Expert en droit des conflits armés et droits de l'homme.
           </p>
           
           <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">

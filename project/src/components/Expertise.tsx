@@ -30,16 +30,17 @@ export const Expertise = () => {
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          
+        <ExpertiseCard 
+            icon={<Users size={40} />}
+            title="Professeur des Universités"
+            description="Enseignant de droit internal public, de droits de l'homme et encadrement des recherches doctorales."
+          />
+        
           <ExpertiseCard 
             icon={<Globe size={40} />}
-            title="Droit International Public"
-            description="Spécialiste des relations entre États, des traités internationaux et du fonctionnement des organisations internationales."
-          />
-          
-          <ExpertiseCard 
-            icon={<Users size={40} />}
-            title="Droits de l'Homme"
-            description="Défense et promotion des droits fondamentaux devant les juridictions nationales et internationales."
+            title="Doctorat en Droit International Public Université de Kisangani"
+            description="These sur: l'Etat congolais face a l'obligation de protéger les populations ciles victimes des conflits armés de l'Ituri et du Nord-Kivu. Mention grande distinction."
           />
           
           <ExpertiseCard 
@@ -50,14 +51,14 @@ export const Expertise = () => {
           
           <ExpertiseCard 
             icon={<Building size={40} />}
-            title="Droit des Organisations Internationales"
-            description="Conseil juridique pour les organisations internationales et les ONG sur leurs cadres opérationnels."
+            title="Inscription au Barreau"
+            description="Ordre des Avocats de la République Dvmocratique du Congo. Admission a la pratique du droit avec spvcialisation droit international pénal et droits humains, libertés publiques."
           />
           
           <ExpertiseCard 
             icon={<Gavel size={40} />}
-            title="Contentieux International"
-            description="Représentation devant la Cour Internationale de Justice et autres tribunaux internationaux."
+            title="Droit International Public"
+            description="Spéciaiste de droit international pénal et droit des conflits armés. Avec une plus value sur les relations enre Etats, des traités internationaux et du fonctionnement des organisations internationales."
           />
           
           <ExpertiseCard 

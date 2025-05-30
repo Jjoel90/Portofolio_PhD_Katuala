@@ -13,7 +13,7 @@ export const About = () => {
           <div className="relative">
             <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-xl">
               <img 
-                src="https://images.pexels.com/photos/5669619/pexels-photo-5669619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="/public/images/Img-Katuala.jpg" 
                 alt="Me. KATUALA GIZE Regis" 
                 className="w-full h-full object-cover"
               />
@@ -31,7 +31,10 @@ export const About = () => {
             </p>
             
             <p className="mb-8 text-slate-700 leading-relaxed">
-              Titulaire d'un doctorat en droit international et inscrit au Barreau, il se spécialise dans les domaines du droit international, des droits humains, et de la justice transitionnelle. Son approche combine une solide formation théorique avec une expérience pratique substantielle.
+              Titulaire d'un doctorat en droit international public de L'Université de Kisangani et inscrit a l'Ordre National des Avocats de la République Démocratique du Congo sur le numéro 18186. Proffesseur et enseignant visiteur dans plusieurs Universités de la RDC dont l'Université Libre de Kisangani, Université Catholique de Kisangani, Université de Goma, Université Catholique de la Sapientia de Goma, Université Catholique du Graben Butembo, Université Mapon, Université de Kindu ...  
+            </p>
+            <p className="mb-8 text-slate-700 leading-relaxed">
+              Son approche combine une solide formation théorique avec une expérience pratique substantielle.
             </p>
             
             <div className="space-y-4">
@@ -41,7 +44,7 @@ export const About = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-800">Expertise Juridique</h4>
-                  <p className="text-slate-600">Conseil juridique et représentation devant les plus hautes juridictions</p>
+                  <p className="text-slate-600">Conseil juridique et expert en droit internal pénal, assistance juridique devant les juridictions civiles, pénales, administratives et militaires de la RDC.</p>
                 </div>
               </div>
               
