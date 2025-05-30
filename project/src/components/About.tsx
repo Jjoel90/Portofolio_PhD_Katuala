@@ -31,7 +31,7 @@ export const About = () => {
             </p>
             
             <p className="mb-8 text-slate-700 leading-relaxed">
-              Titulaire d'un doctorat en droit international public de L'Université de Kisangani et inscrit a l'Ordre National des Avocats de la République Démocratique du Congo sur le numéro 18186. Proffesseur et enseignant visiteur dans plusieurs Universités de la RDC dont l'Université Libre de Kisangani, Université Catholique de Kisangani, Université de Goma, Université Catholique de la Sapientia de Goma, Université Catholique du Graben Butembo, Université Mapon, Université de Kindu ...  
+              Titulaire d'un doctorat en droit international public de L'Université de Kisangani et inscrit à l'Ordre National des Avocats de la République Démocratique du Congo sur le numéro 18186. Proffesseur et enseignant visiteur dans plusieurs Universités de la RDC dont l'Université Libre de Kisangani, Université Catholique de Kisangani, Université de Goma, Université Catholique de la Sapientia de Goma, Université Catholique du Graben Butembo, Université Mapon, Université de Kindu ...  
             </p>
             <p className="mb-8 text-slate-700 leading-relaxed">
               Son approche combine une solide formation théorique avec une expérience pratique substantielle.

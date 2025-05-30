@@ -31,18 +31,19 @@ export const Expertise = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           
-        <ExpertiseCard 
+          <ExpertiseCard 
+            icon={<Globe size={40} />}
+            title="Droit International Public"
+            description="Spécialiste en droit international pénal et droit des conflits armés. Avec une plus value sur les relations entre États, des traités internationaux et du fonctionnement des organisations internationales."
+          />
+           
+          
+          <ExpertiseCard 
             icon={<Users size={40} />}
             title="Professeur des Universités"
             description="Enseignant de droit internal public, de droits de l'homme et encadrement des recherches doctorales."
           />
         
-          <ExpertiseCard 
-            icon={<Globe size={40} />}
-            title="Doctorat en Droit International Public Université de Kisangani"
-            description="These sur: l'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu. Mention grande distinction."
-          />
-          
           <ExpertiseCard 
             icon={<Scale size={40} />}
             title="Justice Transitionnelle"
@@ -57,8 +58,8 @@ export const Expertise = () => {
           
           <ExpertiseCard 
             icon={<Gavel size={40} />}
-            title="Droit International Public"
-            description="Spécialiste de droit international pénal et droit des conflits armés. Avec une plus value sur les relations entre États, des traités internationaux et du fonctionnement des organisations internationales."
+            title="Contentieux International"
+            description="Représentation devant les juridictions nationales de la RDC."
           />
           
           <ExpertiseCard 
