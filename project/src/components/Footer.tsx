@@ -9,7 +9,7 @@ export const Footer = () => {
           <div>
             <h3 className="text-xl font-serif font-bold mb-4">Me. KATUALA GIZE Regis</h3>
             <p className="text-slate-300 mb-6">
-              PhD & Maître Avocat spécialisé en droit international et justice transitionnelle.
+              PhD & Avocat Expert en droit des conflits armés et droits de l'homme.
             </p>
             <div className="flex space-x-4">
               <a 

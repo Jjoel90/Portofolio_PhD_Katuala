@@ -133,7 +133,7 @@ export const Contact = () => {
                   <div>
                     <h4 className="font-bold text-slate-800">Email</h4>
                     <a href="mailto:contact@katuala-gize.com" className="text-amber-700 hover:underline">
-                      contact@katuala-gize.com
+                      regiskatuala@gmail.com
                     </a>
                   </div>
                 </div>
@@ -145,21 +145,8 @@ export const Contact = () => {
                   <div>
                     <h4 className="font-bold text-slate-800">Téléphone</h4>
                     <a href="tel:+123456789" className="text-amber-700 hover:underline">
-                      +1 (234) 567-890
+                      +243 (894) 942-617
                     </a>
-                  </div>
-                </div>
-                
-                <div className="flex items-start">
-                  <div className="bg-amber-100 p-3 rounded-full mr-4">
-                    <MapPin className="text-amber-700" size={20} />
-                  </div>
-                  <div>
-                    <h4 className="font-bold text-slate-800">Adresse</h4>
-                    <p className="text-slate-600">
-                      123 Avenue du Droit<br />
-                      75000 Paris, France
-                    </p>
                   </div>
                 </div>
                 
