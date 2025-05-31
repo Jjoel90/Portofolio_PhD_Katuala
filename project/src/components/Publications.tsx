@@ -119,7 +119,7 @@ export const Publications = () => {
                   <FileText className="text-amber-700 mr-2" size={20} />
                 )}
                 <span className="text-sm font-medium text-amber-700">
-                  {pub.type === 'book' ? 'Livre' : 'Article'} • {pub.year}
+                  {pub.type === 'book' ? 'Livres' : 'Article'} • {pub.year}
                 </span>
               </div>
               
