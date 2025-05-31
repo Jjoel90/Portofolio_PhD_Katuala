@@ -43,12 +43,6 @@ export const Expertise = () => {
             title="Professeur des Universités"
             description="Enseignant de droit internal public, de droits de l'homme et encadrement des recherches doctorales."
           />
-        
-          <ExpertiseCard 
-            icon={<Scale size={40} />}
-            title="Justice Transitionnelle"
-            description="Expert en mécanismes de justice après des périodes de conflit ou de violations massives des droits humains."
-          />
           
           <ExpertiseCard 
             icon={<Building size={40} />}
