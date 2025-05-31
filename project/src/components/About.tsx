@@ -13,7 +13,7 @@ export const About = () => {
           <div className="relative">
             <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-xl">
               <img 
-                src="/images/Img-Katuala.jpg" 
+                src="/public/images/Img-Katuala.jpg" 
                 alt="Me. KATUALA GIZE Regis" 
                 className="w-full h-full object-cover"
               />

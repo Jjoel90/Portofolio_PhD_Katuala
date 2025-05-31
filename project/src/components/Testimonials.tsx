@@ -14,22 +14,22 @@ export const Testimonials = () => {
     {
       id: 1,
       content: "Me. KATUALA a représenté notre organisation avec une expertise juridique exceptionnelle. Sa connaissance approfondie du droit international a été décisive pour notre succès.",
-      author: "Dr. Alain Dubois",
-      position: "Directeur, Organisation Internationale des Droits Humains",
+      author: "Dr. Mwatila Tshiyembe",
+      position: "Docteur en Droit à l'Université de Nice Sophie Antipolis et Docteur en science politique à l'Université de Nancy 2, enseignant aux Universités Paris-XII en France, Université DE Lubumbashi en RDC",
       image: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       id: 2,
-      content: "En tant que chercheur et praticien, Me. KATUALA apporte une perspective unique à ses analyses juridiques. Son travail sur la justice transitionnelle est une référence dans le domaine.",
-      author: "Prof. Marie Lambert",
-      position: "Chaire de Droit International, Université de Genève",
+      content: "En tant que chercheur et praticien, Me. KATUALA apporte une perspective unique à ses analyses juridiques. Son travail en tant que expert en droit des conflits armés et droit de l'homme est une référence dans le domaine.",
+      author: "Batonnier Jean-Paul KAGHOMA",
+      position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo",
       image: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       id: 3,
       content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
-      author: "Me. Jean-Pierre Moreau",
-      position: "Avocat International, Cabinet Droit & Justice",
+      author: "Junior Mumbala Abelungu",
+      position: "Docteur en Droit Iternational Humanitaire à l'Université de Gant en Belgique, Professeur de Droit à l'Université de Lubumbashi, Doyen de la Faculté de Droit de l'Université Protestante de Lubumbashi en RDC",
       image: "https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     }
   ];
