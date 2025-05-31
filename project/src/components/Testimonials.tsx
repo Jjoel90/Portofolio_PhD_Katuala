@@ -15,7 +15,7 @@ export const Testimonials = () => {
       id: 1,
       content: "Me. KATUALA a représenté notre organisation avec une expertise juridique exceptionnelle. Sa connaissance approfondie du droit international a été décisive pour notre succès.",
       author: "Dr. Mwayila Tshiyembe",
-      position: "Docteur en Droit à l'Université de Nice Sophie Antipolis et Docteur en science politique à l'Université de Nancy 2, enseignant aux Universités Paris-XII en France, Université DE Lubumbashi en RDC",
+      position: "Docteur en Droit à l'Université de Nice Sophie Antipolis et Docteur en science politique à l'Université de Nancy 2, enseignant aux Universités Paris-XII en France, Université de Lubumbashi en RDC",
       image: "/public/images/Prof-Mwayila.png"
     },
     {
