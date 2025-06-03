@@ -53,7 +53,7 @@ export const Publications = () => {
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
       description: "Présente l'évolution historique du droit de l'environnement, ses origines a nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
-    }
+    },
     {
       id: 6,
       type: 'Thèse',
@@ -61,6 +61,14 @@ export const Publications = () => {
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
       description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
+    },
+    {
+      id: 7,
+      type: 'Mémoire',
+      title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
+      year: "2020",
+      publisher: "Université de Kisangani Faculté de Droit",
+      description: "Ces sanctions ont suscité des réactions chez les autorités congolaises et ont généré une controverse juridique."
     }
   ];
   
