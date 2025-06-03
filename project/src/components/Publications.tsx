@@ -3,7 +3,7 @@ import { BookOpen, FileText } from 'lucide-react';
 
 interface Publication {
   id: number;
-  type: 'book' | 'article';
+  type: 'cours' | 'article';
   title: string;
   year: string;
   publisher: string;
@@ -11,48 +11,56 @@ interface Publication {
 }
 
 export const Publications = () => {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'books' | 'articles'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles'>('all');
   
   const publications: Publication[] = [
     {
       id: 1,
-      type: 'book',
-      title: "Les Mécanismes de Justice Transitionnelle en Droit International",
-      year: "2021",
-      publisher: "Éditions Juridiques Internationales",
-      description: "Une analyse approfondie des mécanismes de justice transitionnelle et leur impact sur la reconstruction post-conflit."
+      type: 'cours',
+      title: "Cour de Droits de l'homme",
+      year: "2025",
+      publisher: "Université Mapon L1 LMD",
+      description: "Elle tend à protéger la vie et la santé, ainsi qu'à faire respecter la personne humaine."
     },
     {
       id: 2,
       type: 'article',
-      title: "L'évolution de la responsabilité des États pour violations graves des droits humains",
-      year: "2020",
-      publisher: "Revue Internationale de Droit",
-      description: "Article examinant les développements récents dans la jurisprudence internationale concernant la responsabilité étatique."
+      title: "Analyse de régime juridique des sanctions en droit international et la protection des droits de l'homme: Regard sur la République Démocratique du Congo à",
+      year: "2018",
+      publisher: "International Journal of Innovation and Applied Studies",
+      description: "Les sanctions sont l'un des moyens de pression à la disposition des Etats souverains ou des Organisations Iternationalles."
     },
     {
       id: 3,
-      type: 'book',
-      title: "Droit International Humanitaire: Principes et Applications",
-      year: "2019",
-      publisher: "Presses Universitaires",
-      description: "Manuel de référence sur les principes fondamentaux du droit humanitaire et leur mise en œuvre pratique."
+      type: 'Cours',
+      title: "Droit et Devoirs des citoyens Humanitaire: Principes et Applications",
+      year: "2025",
+      publisher: "Université Mapon L1 LMD",
+      description: "Tout citoyen doit aimer son pays, le protéger et être prêt à le défendre à tout prix."
     },
     {
       id: 4,
-      type: 'article',
-      title: "La Cour Pénale Internationale face aux défis contemporains",
-      year: "2018",
-      publisher: "Journal de Droit International",
-      description: "Analyse critique des obstacles actuels à l'efficacité de la Cour Pénale Internationale."
+      type: 'cours',
+      title: "La Responsabilité Internationale ",
+      year: "2024",
+      publisher: "Université Catholique la Sapientia de Goma M1",
+      description: "Le droit international public de la responsabilité est encore très largement coutumier."
     },
     {
       id: 5,
-      type: 'article',
-      title: "Protection des minorités en droit international: avancées et limites",
-      year: "2017",
-      publisher: "Revue des Droits de l'Homme",
-      description: "Étude comparative des mécanismes de protection des minorités dans différents systèmes juridiques."
+      type: 'Cours',
+      title: "Notes de cours de droit de l'environnement",
+      year: "2025",
+      publisher: "Université Catholique de Graben L2 LMD Droit",
+      description: "Présente l'évolution historique du droit de l'environnement, ses origines a nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
+    }
+    {
+      id: 6,
+      type: 'Thèse',
+      title: "Notes de cours de droit de l'environnement",
+      year: "2025",
+      publisher: "Université Catholique de Graben L2 LMD Droit",
+      description: "Présente l'évolution historique du droit de l'environnement, ses origines a nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
     }
   ];
   
