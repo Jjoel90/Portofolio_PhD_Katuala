@@ -57,10 +57,10 @@ export const Publications = () => {
     {
       id: 6,
       type: 'Thèse',
-      title: "Notes de cours de droit de l'environnement",
-      year: "2025",
+      title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
+      year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
-      description: "Présente l'évolution historique du droit de l'environnement, ses origines a nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
+      description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
     }
   ];
   
