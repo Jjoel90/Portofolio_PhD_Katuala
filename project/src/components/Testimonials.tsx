@@ -23,7 +23,7 @@ export const Testimonials = () => {
       content: "En tant que chercheur et praticien, Me. KATUALA apporte une perspective unique à ses analyses juridiques. Son travail en tant que expert en droit des conflits armés et droit de l'homme est une référence dans le domaine.",
       author: "Batonnier Jean-Paul KAGHOMA",
       position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo",
-      image: "/public/images/Batonnier-JPK.png"
+      image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059113/Batonnier-JPK_r2nz7f.png"
     },
     {
       id: 3,
