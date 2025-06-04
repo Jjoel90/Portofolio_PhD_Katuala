@@ -59,7 +59,7 @@ export const Experience = () => {
 
           <TimelineItem 
             year="2024"
-            title="Doctorat en Droit International Public"
+            title="Docteur en Droit International Public"
             subtitle="Université de Kisangani"
             description="Thèse sur 'L'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu.' - Mention grande distinction avec félicitations du jury."
           />
