@@ -3,7 +3,7 @@ import { BookOpen, FileText } from 'lucide-react';
 
 interface Publication {
   id: number;
-  type: 'cours' | 'article';
+  type: 'cours' | 'article' | 'Thèse' | 'Mémoire';
   title: string;
   year: string;
   publisher: string;
@@ -11,7 +11,7 @@ interface Publication {
 }
 
 export const Publications = () => {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles' | 'Thèse' | 'Mémoire'>('all');
   
   const publications: Publication[] = [
     {
@@ -33,7 +33,7 @@ export const Publications = () => {
     {
       id: 3,
       type: 'cours',
-      title: "Droits et Devoirs des citoyens Humanitaire: Principes et Applications",
+      title: "Droits et Devoirs des citoyens humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
       description: "Tout citoyen doit aimer son pays, le protéger et être prêt à le défendre à tout prix."
