@@ -135,8 +135,9 @@ export const Publications = () => {
                   <FileText className="text-amber-700 mr-2" size={20} />
                 )}
                 <span className="text-sm font-medium text-amber-700">
-                  {pub.type === 'cours' ? 'Cours' : 'Article'} • {pub.year}
+                  {['Cours', 'Article', 'Mémoire', 'Thèse'].includes(pub.type) ? 'Cours' : 'Article'} • {pub.year}
                 </span>
+
               </div>
               
               <h3 className="text-lg font-bold mb-2 text-slate-800">{pub.title}</h3>
