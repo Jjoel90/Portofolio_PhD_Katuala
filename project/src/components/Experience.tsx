@@ -54,7 +54,7 @@ export const Experience = () => {
             year="2024 - Présent"
             title="Professeur des Universités"
             subtitle="Université Internationale"
-            description="Enseignement du droit international public, des droits des humains et encadrement des recherches doctorales."
+            description="Enseignement de droit international public, de droits humains et encadrement des recherches doctorales."
           />
 
           <TimelineItem 
