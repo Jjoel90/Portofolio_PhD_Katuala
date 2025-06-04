@@ -44,7 +44,7 @@ export const About = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-800">Expertise Juridique</h4>
-                  <p className="text-slate-600">Conseil juridique et expert en droit internal pénal, assistance juridique devant les juridictions civiles, pénales, administratives et militaires de la RDC.</p>
+                  <p className="text-slate-600">Conseil juridique et expert en droit international pénal, assistance juridique devant les juridictions civiles, pénales, administratives et militaires de la RDC.</p>
                 </div>
               </div>
               
