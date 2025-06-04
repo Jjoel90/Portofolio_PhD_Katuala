@@ -68,7 +68,7 @@ export const Experience = () => {
             year="2019"
             title="Inscription au Barreau"
             subtitle="Ordre des Avocats de la RDC"
-            description="Admission à la pratique du droit avec spécialisation en droit international et droit des droits humains, libertés publiques."
+            description="Admission à la pratique du droit avec spécialisation en droit international et droits humains, libertés publiques."
             isLeft={true}
           />
 
