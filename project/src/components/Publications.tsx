@@ -11,7 +11,7 @@ interface Publication {
 }
 
 export const Publications = () => {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'cours'>('all');
   
   const publications: Publication[] = [
     {
