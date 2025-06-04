@@ -74,7 +74,7 @@ export const Publications = () => {
   
   const filteredPublications = publications.filter(pub => {
     if (activeFilter === 'all') return true;
-    if (activeFilter === 'cours') return pub.type === 'cour';
+    if (activeFilter === 'Cours') return pub.type === 'cours';
     if (activeFilter === 'articles') return pub.type === 'article';
     return true;
   });
@@ -110,10 +110,10 @@ export const Publications = () => {
                   : 'text-slate-700 hover:bg-slate-200'
               }`}
             >
-              Livres
+              Cours
             </button>
             <button 
-              onClick={() => setActiveFilter('articles')}
+              onClick={() => setActiveFilter('Cours')}
               className={`px-4 py-2 rounded-md transition-colors ${
                 activeFilter === 'articles' 
                   ? 'bg-amber-600 text-white' 
@@ -135,7 +135,7 @@ export const Publications = () => {
                   <FileText className="text-amber-700 mr-2" size={20} />
                 )}
                 <span className="text-sm font-medium text-amber-700">
-                  {['Cours', 'Article', 'Mémoire', 'Thèse'].includes(pub.type) ? 'Cours' : 'Article'} • {pub.year}
+                  {['Mémoire', 'Thèse', 'Cours', 'Article'].includes(pub.type) ? 'Cours' : 'Article'} • {pub.year}
                 </span>
 
               </div>
