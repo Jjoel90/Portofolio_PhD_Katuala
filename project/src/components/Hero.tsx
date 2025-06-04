@@ -4,7 +4,7 @@ import { ChevronDown } from 'lucide-react';
 export const Hero = () => {
   return (
     <section className="relative h-screen flex items-center justify-center bg-gradient-to-r from-slate-900 to-slate-800 text-white overflow-hidden">
-      <div className="absolute inset-0 bg-[url('/images/prof-etudiants.jpg')] bg-cover bg-center opacity-20"></div>
+      <div className="absolute inset-0 bg-[url('https://res.cloudinary.com/dkvtklfki/image/upload/v1749059199/prof-etudiants_db42kf.jpg')] bg-cover bg-center opacity-20"></div>
 
       
       {/* Decorative elements */}
