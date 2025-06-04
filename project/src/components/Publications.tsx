@@ -16,7 +16,7 @@ export const Publications = () => {
   const publications: Publication[] = [
     {
       id: 1,
-      type: 'cours',
+      title: 'cours',
       title: "Cours de Droits de l'homme",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
@@ -32,7 +32,7 @@ export const Publications = () => {
     },
     {
       id: 3,
-      type: 'cours',
+      title: 'cours',
       title: "Droits et Devoirs des citoyens Humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
@@ -40,7 +40,7 @@ export const Publications = () => {
     },
     {
       id: 4,
-      type: 'cours',
+      title: 'cours',
       title: "La Responsabilité Internationale ",
       year: "2024",
       publisher: "Université Catholique la Sapientia de Goma M1",
@@ -48,7 +48,7 @@ export const Publications = () => {
     },
     {
       id: 5,
-      type: 'cours',
+      title: 'cours',
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -56,7 +56,7 @@ export const Publications = () => {
     },
     {
       id: 6,
-      type: 'Thèse',
+      title: 'Thèse',
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -64,7 +64,7 @@ export const Publications = () => {
     },
     {
       id: 7,
-      type: 'Mémoire',
+      title: 'Mémoire',
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
       year: "2020",
       publisher: "Université de Kisangani Faculté de Droit",
