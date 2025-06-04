@@ -17,7 +17,7 @@ export const Publications = () => {
     {
       id: 1,
       type: 'cours',
-      title: "Cour de Droits de l'homme",
+      title: "Cours de Droits de l'homme",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
       description: "Elle tend à protéger la vie et la santé, ainsi qu'à faire respecter la personne humaine."
@@ -32,8 +32,8 @@ export const Publications = () => {
     },
     {
       id: 3,
-      type: 'Cours',
-      title: "Droit et Devoirs des citoyens Humanitaire: Principes et Applications",
+      type: 'cours',
+      title: "Droits et Devoirs des citoyens Humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
       description: "Tout citoyen doit aimer son pays, le protéger et être prêt à le défendre à tout prix."
@@ -48,7 +48,7 @@ export const Publications = () => {
     },
     {
       id: 5,
-      type: 'Cours',
+      type: 'cours',
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
