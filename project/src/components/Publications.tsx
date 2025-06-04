@@ -74,7 +74,7 @@ export const Publications = () => {
   
   const filteredPublications = publications.filter(pub => {
     if (activeFilter === 'all') return true;
-    if (activeFilter === 'books') return pub.type === 'book';
+    if (activeFilter === 'cours') return pub.type === 'cour';
     if (activeFilter === 'articles') return pub.type === 'article';
     return true;
   });
@@ -103,9 +103,9 @@ export const Publications = () => {
               Tout
             </button>
             <button 
-              onClick={() => setActiveFilter('books')}
+              onClick={() => setActiveFilter('Cours')}
               className={`px-4 py-2 rounded-md transition-colors ${
-                activeFilter === 'books' 
+                activeFilter === 'Cours' 
                   ? 'bg-amber-600 text-white' 
                   : 'text-slate-700 hover:bg-slate-200'
               }`}
@@ -129,13 +129,13 @@ export const Publications = () => {
           {filteredPublications.map((pub) => (
             <div key={pub.id} className="bg-slate-50 p-6 rounded-lg shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
               <div className="flex items-center mb-4">
-                {pub.type === 'book' ? (
+                {pub.type === 'cours' ? (
                   <BookOpen className="text-amber-700 mr-2\" size={20} />
                 ) : (
                   <FileText className="text-amber-700 mr-2" size={20} />
                 )}
                 <span className="text-sm font-medium text-amber-700">
-                  {pub.type === 'book' ? 'Cours' : 'Article'} • {pub.year}
+                  {pub.type === 'cours' ? 'Cours' : 'Article'} • {pub.year}
                 </span>
               </div>
               
