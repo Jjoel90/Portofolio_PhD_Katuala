@@ -30,7 +30,7 @@ export const Testimonials = () => {
       content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
       author: "Junior Mumbala Abelungu",
       position: "Docteur en Droit Iternational Humanitaire à l'Université de Gant en Belgique, Professeur de Droit à l'Université de Lubumbashi, Doyen de la Faculté de Droit de l'Université Protestante de Lubumbashi en RDC",
-      image: "/public/images/Junior-M-A.png"
+      image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059171/Junior-M-A_uo7cfu.png"
     }
   ];
   
