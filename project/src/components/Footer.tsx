@@ -76,7 +76,7 @@ export const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#" className="text-slate-300 hover:text-amber-400 transition-colors flex items-center">
+                <a href="#publications" className="text-slate-300 hover:text-amber-400 transition-colors flex items-center">
                   <FileText size={16} className="mr-2" />
                   Liste des publications
                 </a>
