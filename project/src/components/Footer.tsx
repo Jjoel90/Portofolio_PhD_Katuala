@@ -66,9 +66,13 @@ export const Footer = () => {
             <h3 className="text-xl font-serif font-bold mb-4">Documents</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-slate-300 hover:text-amber-400 transition-colors flex items-center">
-                  <FileText size={16} className="mr-2" />
-                  Curriculum Vitae
+                <a
+                  href="/cv-katuala.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-6 py-2 bg-amber-600 text-white rounded-lg shadow hover:bg-amber-700 transition-colors"
+                >
+                  Voir mon CV
                 </a>
               </li>
               <li>
