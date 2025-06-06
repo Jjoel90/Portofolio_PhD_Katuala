@@ -161,7 +161,7 @@ export const Publications = () => {
         
         <div className="text-center mt-10">
           <a 
-            href="#" 
+            href="#publications" 
             className="inline-flex items-center text-amber-700 hover:text-amber-800 font-medium"
           >
             Voir toutes les publications
