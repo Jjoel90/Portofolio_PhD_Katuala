@@ -27,6 +27,14 @@ function Home() {
       <Footer />
     </>
   );
+  
+  function Home() {
+  return (
+    <div>
+      <Publications />
+    </div>
+  );
+}
 }
 
 export default Home;
