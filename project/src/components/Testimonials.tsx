@@ -13,7 +13,7 @@ export const Testimonials = () => {
   const testimonials: Testimonial[] = [
     {
       id: 1,
-      content: "Me. KATUALA a représenté notre organisation avec une expertise juridique exceptionnelle. Sa connaissance approfondie du droit international a été décisive pour notre succès.",
+      content: "J'ai été directeur de mémoire de thèse de Maitre Régis KATUALA GIZE. Sa soif d'apprendre et son incroyable mémoire font de lui une personne à part.",
       author: "Dr. Mwayila Tshiyembe",
       position: "Docteur en Droit à l'Université de Nice Sophie Antipolis et Docteur en science politique à l'Université de Nancy 2, enseignant aux Universités Paris-XII en France, Université de Lubumbashi en RDC",
       image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059222/Prof-Mwayila_ryrqb1.png"
