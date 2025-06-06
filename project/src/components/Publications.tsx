@@ -3,6 +3,7 @@ import { BookOpen, FileText } from 'lucide-react';
 
 interface Publication {
   id: number;
+  link: string;
   type: 'cours' | 'article';
   title: string;
   year: string;
@@ -17,6 +18,7 @@ export const Publications = () => {
     {
       id: 1,
       type: 'cours',
+      link: "project/public/Cours droits de l'homme.pdf",
       title: "Cours de Droits de l'homme",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
@@ -25,6 +27,7 @@ export const Publications = () => {
     {
       id: 2,
       type: 'article',
+      link: "project/public/Cours droits de l'homme.pdf",
       title: "Analyse de régime juridique des sanctions en droit international et la protection des droits de l'homme: Regard sur la République Démocratique du Congo à",
       year: "2018",
       publisher: "International Journal of Innovation and Applied Studies",
@@ -33,6 +36,7 @@ export const Publications = () => {
     {
       id: 3,
       type: 'cours',
+      link: "project/public/Cours droits de l'homme.pdf",
       title: "Droits et Devoirs des citoyens humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
@@ -41,6 +45,7 @@ export const Publications = () => {
     {
       id: 4,
       type: 'cours',
+      link: "project/public/Cours droits de l'homme.pdf", 
       title: "La Responsabilité Internationale ",
       year: "2024",
       publisher: "Université Catholique la Sapientia de Goma M1",
@@ -49,6 +54,7 @@ export const Publications = () => {
     {
       id: 5,
       type: 'cours',
+      link: "project/public/Cours droits de l'homme.pdf", 
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -57,6 +63,7 @@ export const Publications = () => {
     {
       id: 6,
       type: 'article',
+      link: "project/public/Cours droits de l'homme.pdf", 
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -65,6 +72,7 @@ export const Publications = () => {
     {
       id: 7,
       type: 'article',
+      link: "project/public/Cours droits de l'homme.pdf", 
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
       year: "2020",
       publisher: "Université de Kisangani Faculté de Droit",
