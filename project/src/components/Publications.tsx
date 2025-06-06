@@ -3,7 +3,7 @@ import { BookOpen, FileText } from 'lucide-react';
 
 interface Publication {
   id: number;
-  type: 'cours' | 'article' | 'Thèse' | 'Mémoire';
+  type: 'cours' | 'article';
   title: string;
   year: string;
   publisher: string;
@@ -11,7 +11,7 @@ interface Publication {
 }
 
 export const Publications = () => {
-  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles' | 'Thèse' | 'Mémoire'>('all');
+  const [activeFilter, setActiveFilter] = useState<'all' | 'Cours' | 'articles'>('all');
   
   const publications: Publication[] = [
     {
@@ -56,7 +56,7 @@ export const Publications = () => {
     },
     {
       id: 6,
-      type: 'Thèse',
+      type: 'article',
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -64,7 +64,7 @@ export const Publications = () => {
     },
     {
       id: 7,
-      type: 'Mémoire',
+      type: 'article',
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
       year: "2020",
       publisher: "Université de Kisangani Faculté de Droit",
@@ -113,7 +113,7 @@ export const Publications = () => {
               Cours
             </button>
             <button 
-              onClick={() => setActiveFilter('Cours')}
+              onClick={() => setActiveFilter('articles')}
               className={`px-4 py-2 rounded-md transition-colors ${
                 activeFilter === 'articles' 
                   ? 'bg-amber-600 text-white' 
@@ -135,7 +135,7 @@ export const Publications = () => {
                   <FileText className="text-amber-700 mr-2" size={20} />
                 )}
                 <span className="text-sm font-medium text-amber-700">
-                  {['Mémoire', 'Thèse', 'Cours', 'Article'].includes(pub.type) ? 'Cours' : 'Article'} • {pub.year}
+                  {['Cours', 'Article'].includes(pub.type) ? 'Cours' : 'Article'} • {pub.year}
                 </span>
 
               </div>
@@ -143,6 +143,10 @@ export const Publications = () => {
               <h3 className="text-lg font-bold mb-2 text-slate-800">{pub.title}</h3>
               <p className="text-amber-800 text-sm mb-3">{pub.publisher}</p>
               <p className="text-slate-600 text-sm">{pub.description}</p>
+
+              <a href="{pub.link}" className='border py-1 px-4'>
+                telecharger
+              </a>
             </div>
           ))}
         </div>
