@@ -9,9 +9,10 @@ import { Testimonials } from './components/Testimonials';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 
-function App() {
+
+function Home() {
   return (
-    <div className="min-h-screen bg-gray-50 text-slate-800">
+    <>
       <Header />
       <main>
         <Hero />
@@ -23,8 +24,8 @@ function App() {
         <Contact />
       </main>
       <Footer />
-    </div>
+    </>
   );
 }
 
-export default App;
+export default Home;

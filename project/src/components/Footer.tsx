@@ -67,7 +67,7 @@ export const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="/cv-katuala.pdf"
+                  href="/cv.docx"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-6 py-2 bg-amber-600 text-white rounded-lg shadow hover:bg-amber-700 transition-colors"
