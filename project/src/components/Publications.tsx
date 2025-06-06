@@ -152,7 +152,7 @@ export const Publications = () => {
               <p className="text-amber-800 text-sm mb-3">{pub.publisher}</p>
               <p className="text-slate-600 text-sm">{pub.description}</p>
 
-              <a href="{pub.link}" className='border py-1 px-4 '>
+              <a href="{pub.link}" className='border py-1 px-4 bg-yellox-800 text-black'>
                 Télécharger
               </a>
             </div>
