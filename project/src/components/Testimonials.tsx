@@ -23,7 +23,7 @@ export const Testimonials = () => {
       content: "J'ai connu MMaître Régis KATUALA GIZE comme son Co-directeur lorsqu'il rédigeait son mémoire de thèse. Son enthousiasme, son implication et sa motivation m'ont convaincu. Je pense qu'il est l'un des meilleurs de sa génération.",
       author: "Batonnier Jean-Paul KAGHOMA",
       position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo",
-      image: "/public/images/Batonnier.png"
+      image: "/public/images/Batonnier-Tshopo.png"
     },
     {
       id: 3,
