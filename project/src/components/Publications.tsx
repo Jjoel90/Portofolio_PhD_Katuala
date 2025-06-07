@@ -83,8 +83,8 @@ export const Publications = () => {
       type: 'cours',
       link: "project/public/COURS-DE-CRITIQUES-DE-LA-JURISPRUDENCE-DE-LA-CIJMA.pdf", 
       title: "Notes de cours de critiques de la jurisprudence de la cour internationale de justice",
-      year: "2025",
-      publisher: "A l'usage des étudiants en Droit",
+      year: "2024",
+      publisher: "Université Catholique la Sapientia de Goma M1",
       description: "Ensemble des règles de droit qui se dégagent des décisions rendues par les cours et tribunaux ..."
     },
     {

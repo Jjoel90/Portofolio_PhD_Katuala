@@ -169,7 +169,7 @@ export const Contact = () => {
               <h4 className="font-bold text-slate-800 mb-2">Télécharger</h4>
               <div className="space-y-2">
                 <a 
-                  href="#" 
+                  href="#voir mon CV" 
                   className="flex items-center text-amber-700 hover:text-amber-800"
                 >
                   <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
