@@ -54,7 +54,7 @@ export const Publications = () => {
     {
       id: 5,
       type: 'cours',
-      link: "project/public/Cours droits de l'homme.pdf", 
+      link: "project/public/DROIT-DE-L'ENVIRONNEMENT-GRABEN-TRAITE.pdf", 
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
