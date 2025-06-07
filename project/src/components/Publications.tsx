@@ -58,10 +58,28 @@ export const Publications = () => {
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
-      description: "Présente l'évolution historique du droit de l'environnement, ses origines a nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
+      description: "Présente l'évolution historique du droit de l'environnement, ses origines à nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
     },
     {
       id: 6,
+      type: 'cours',
+      link: "project/public/DEONTOLOGIE_DES-FONCTIONNAIRES-INTERNATIONAUX-GRABEN-PDF.pdf", 
+      title: "Notes de cours de droit de l'environnement",
+      year: "2025",
+      publisher: "Université Catholique de Graben L2 LMD Droit",
+      description: "Présente l'évolution historique du droit de l'environnement, ses origines à nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
+    },
+    {
+      id: 7,
+      type: 'cours',
+      link: "project/public/DROIT-INTERNATIONAL-ET-QUESTION-APPROFONDIES-DE-L'ENVIRONNEMENT-TRAITE.pdf", 
+      title: "Droit international de l'environnement: Questions approfondies de l'environnement",
+      year: "2025",
+      publisher: "Université Catholique de Graben M1 Droit",
+      description: "Le droit de l'environneme est l'ensemble  des règles qui ont pour objet de protéger l'environnement contre les nuisances et les pollutions."
+    },
+    {
+      id: 8,
       type: 'article',
       link: "project/public/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
@@ -70,7 +88,7 @@ export const Publications = () => {
       description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
     },
     {
-      id: 7,
+      id: 9,
       type: 'article',
       link: "project/public/THESE-REGIS-KATUALA-2024-PDF-Copie-.pdf", 
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
