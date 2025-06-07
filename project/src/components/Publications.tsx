@@ -36,7 +36,7 @@ export const Publications = () => {
     {
       id: 3,
       type: 'cours',
-      link: "project/public/Cours droits de l'homme.pdf",
+      link: "project/public/DROITS-ET-DEVOIRS-DES-CITOYENS-PDF.pdf",
       title: "Droits et Devoirs des citoyens humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
