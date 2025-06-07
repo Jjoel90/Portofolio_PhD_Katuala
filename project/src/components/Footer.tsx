@@ -92,7 +92,7 @@ export const Footer = () => {
         </div>
         
         <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Me. KATUALA GIZE Regis. Tous droits réservés.</p>
+          <p>&copy; {new Date().getFullYear()} Design by Jjoel. Tous droits réservés.</p>
         </div>
       </div>
     </footer>
