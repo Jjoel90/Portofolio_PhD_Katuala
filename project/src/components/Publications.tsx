@@ -63,7 +63,7 @@ export const Publications = () => {
     {
       id: 6,
       type: 'article',
-      link: "project/public/Cours droits de l'homme.pdf", 
+      link: "project/public/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
