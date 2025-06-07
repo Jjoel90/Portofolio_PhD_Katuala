@@ -45,7 +45,7 @@ export const Publications = () => {
     {
       id: 4,
       type: 'cours',
-      link: "project/public/Cours droits de l'homme.pdf", 
+      link: "project/public/COURS-DE-LA-RESPONSABILITE-INTERNATIONAL.pdf", 
       title: "La Responsabilité Internationale ",
       year: "2024",
       publisher: "Université Catholique la Sapientia de Goma M1",
