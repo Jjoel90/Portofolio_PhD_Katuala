@@ -20,14 +20,14 @@ export const Testimonials = () => {
     },
     {
       id: 2,
-      content: "J'ai connu MMaître Régis KATUALA GIZE comme son Co-directeur lorsqu'il rédigeait son mémoire de thèse. Son enthousiasme, son implication et sa motivation m'ont convaincu. Je pense qu'il est l'un des meilleurs de sa génération.",
+      content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
       author: "Batonnier Jean-Paul KAGHOMA",
       position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo",
       image: "/public/images/Batonnier-Tshopo.png"
     },
     {
       id: 3,
-      content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
+      content: "J'ai connu Maître Régis KATUALA GIZE comme son Co-directeur lorsqu'il rédigeait son mémoire de thèse. Son enthousiasme, son implication et sa motivation m'ont convaincu. Je pense qu'il est l'un des meilleurs de sa génération.",
       author: "Junior Mumbala Abelungu",
       position: "Docteur en Droit Iternational Humanitaire à l'Université de Gant en Belgique, Professeur de Droit à l'Université de Lubumbashi, Doyen de la Faculté de Droit de l'Université Protestante de Lubumbashi en RDC",
       image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059171/Junior-M-A_uo7cfu.png"
