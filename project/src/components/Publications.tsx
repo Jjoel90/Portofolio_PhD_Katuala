@@ -64,10 +64,10 @@ export const Publications = () => {
       id: 6,
       type: 'cours',
       link: "project/public/DEONTOLOGIE_DES-FONCTIONNAIRES-INTERNATIONAUX-GRABEN-PDF.pdf", 
-      title: "Notes de cours de droit de l'environnement",
+      title: "Notes de cours des fonctionnaires internationaux",
       year: "2025",
-      publisher: "Université Catholique de Graben L2 LMD Droit",
-      description: "Présente l'évolution historique du droit de l'environnement, ses origines à nos jours montrant comment le droit de l'environnement est né ainsi que son développement."
+      publisher: "A l'usage des étudiants en Droit",
+      description: "Permet à l'étudiant de découvrir les concepts fondamentaux qui influent sur l'enseignement de la déontologie des Fonctionnaires Internationaux."
     },
     {
       id: 7,
