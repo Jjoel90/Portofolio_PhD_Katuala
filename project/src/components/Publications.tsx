@@ -80,6 +80,15 @@ export const Publications = () => {
     },
     {
       id: 8,
+      type: 'cours',
+      link: "project/public/COURS-DE-CRITIQUES-DE-LA-JURISPRUDENCE-DE-LA-CIJMA.pdf", 
+      title: "Notes de cours de critiques de la jurisprudence de la cour internationale de justice",
+      year: "2025",
+      publisher: "A l'usage des étudiants en Droit",
+      description: "Ensemble des règles de droit qui se dégagent des décisions rendues par les cours et tribunaux ..."
+    },
+    {
+      id: 9,
       type: 'article',
       link: "project/public/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
@@ -88,7 +97,7 @@ export const Publications = () => {
       description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
     },
     {
-      id: 9,
+      id: 10,
       type: 'article',
       link: "project/public/THESE-REGIS-KATUALA-2024-PDF-Copie-.pdf", 
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
