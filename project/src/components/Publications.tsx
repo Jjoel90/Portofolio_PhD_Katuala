@@ -179,7 +179,7 @@ export const Publications = () => {
               <p className="text-amber-800 text-sm mb-3">{pub.publisher}</p>
               <p className="text-slate-600 text-sm">{pub.description}</p>
 
-              <a href={pub.link} download className='border py-1 px-4 rounded border-orange-800 text-black mb-4'>
+              <a href={pub.link} download className=' inline-block px-6 py-2 bg-amber-600 text-white rounded-lg shadow hover:bg-amber-700 transition-colors'>
                 Télécharger
               </a>
             </div>
