@@ -27,7 +27,7 @@ export const Publications = () => {
     {
       id: 2,
       type: 'article',
-      link: "#",
+      link: "project/public/ARTICLE SANCTIONS CIBLEES REGIS KATUALA.pdf",
       title: "Analyse de régime juridique des sanctions en droit international et la protection des droits de l'homme: Regard sur la République Démocratique du Congo à",
       year: "2018",
       publisher: "International Journal of Innovation and Applied Studies",
