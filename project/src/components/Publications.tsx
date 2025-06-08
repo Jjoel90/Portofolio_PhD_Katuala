@@ -76,7 +76,7 @@ export const Publications = () => {
       title: "Droit international de l'environnement: Questions approfondies de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben M1 Droit",
-      description: "Le droit de l'environneme est l'ensemble  des règles qui ont pour objet de protéger l'environnement contre les nuisances et les pollutions."
+      description: "Le droit de l'environnement est l'ensemble des règles qui ont pour objet de protéger l'environnement contre les nuisances et les pollutions."
     },
     {
       id: 8,
