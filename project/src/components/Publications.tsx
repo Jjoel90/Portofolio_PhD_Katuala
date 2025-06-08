@@ -31,7 +31,7 @@ export const Publications = () => {
       title: "Analyse de régime juridique des sanctions en droit international et la protection des droits de l'homme: Regard sur la République Démocratique du Congo",
       year: "2018",
       publisher: "International Journal of Innovation and Applied Studies",
-      description: "Les sanctions sont l'un des moyens de pression à la disposition des Etats souverains ou des Organisations Internationalles."
+      description: "Les sanctions sont l'un des moyens de pression à la disposition des États souverains ou des Organisations Internationalles."
     },
     {
       id: 3,
