@@ -27,7 +27,7 @@ export const Publications = () => {
     {
       id: 2,
       type: 'article',
-      link: "project/public/Cours droits de l'homme.pdf",
+      link: "#",
       title: "Analyse de régime juridique des sanctions en droit international et la protection des droits de l'homme: Regard sur la République Démocratique du Congo à",
       year: "2018",
       publisher: "International Journal of Innovation and Applied Studies",
@@ -36,7 +36,7 @@ export const Publications = () => {
     {
       id: 3,
       type: 'cours',
-      link: "project/public/DROITS-ET-DEVOIRS-DES-CITOYENS-PDF.pdf",
+      link: "/DROITS-ET-DEVOIRS-DES-CITOYENS-PDF.pdf",
       title: "Droits et Devoirs des citoyens humanitaire: Principes et Applications",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
@@ -45,7 +45,7 @@ export const Publications = () => {
     {
       id: 4,
       type: 'cours',
-      link: "project/public/COURS-DE-LA-RESPONSABILITE-INTERNATIONAL.pdf", 
+      link: "/COURS-DE-LA-RESPONSABILITE-INTERNATIONAL.pdf", 
       title: "La Responsabilité Internationale ",
       year: "2024",
       publisher: "Université Catholique la Sapientia de Goma M1",
@@ -54,7 +54,7 @@ export const Publications = () => {
     {
       id: 5,
       type: 'cours',
-      link: "project/public/DROIT-DE-L'ENVIRONNEMENT-GRABEN-TRAITE.pdf", 
+      link: "/DROIT-DE-L'ENVIRONNEMENT-GRABEN-TRAITE.pdf", 
       title: "Notes de cours de droit de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -63,7 +63,7 @@ export const Publications = () => {
     {
       id: 6,
       type: 'cours',
-      link: "project/public/DEONTOLOGIE_DES-FONCTIONNAIRES-INTERNATIONAUX-GRABEN-PDF.pdf", 
+      link: "/DEONTOLOGIE_DES-FONCTIONNAIRES-INTERNATIONAUX-GRABEN-PDF.pdf", 
       title: "Notes de cours des fonctionnaires internationaux",
       year: "2025",
       publisher: "A l'usage des étudiants en Droit",
@@ -72,7 +72,7 @@ export const Publications = () => {
     {
       id: 7,
       type: 'cours',
-      link: "project/public/DROIT-INTERNATIONAL-ET-QUESTION-APPROFONDIES-DE-L'ENVIRONNEMENT-TRAITE.pdf", 
+      link: "/DROIT-INTERNATIONAL-ET-QUESTION-APPROFONDIES-DE-L'ENVIRONNEMENT-TRAITE.pdf", 
       title: "Droit international de l'environnement: Questions approfondies de l'environnement",
       year: "2025",
       publisher: "Université Catholique de Graben M1 Droit",
@@ -81,7 +81,7 @@ export const Publications = () => {
     {
       id: 8,
       type: 'cours',
-      link: "project/public/COURS-DE-CRITIQUES-DE-LA-JURISPRUDENCE-DE-LA-CIJMA.pdf", 
+      link: "/COURS-DE-CRITIQUES-DE-LA-JURISPRUDENCE-DE-LA-CIJMA.pdf", 
       title: "Notes de cours de critiques de la jurisprudence de la cour internationale de justice",
       year: "2024",
       publisher: "Université Catholique la Sapientia de Goma M1",
@@ -90,7 +90,7 @@ export const Publications = () => {
     {
       id: 9,
       type: 'article',
-      link: "project/public/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
+      link: "/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
       title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
@@ -99,7 +99,7 @@ export const Publications = () => {
     {
       id: 10,
       type: 'article',
-      link: "project/public/THESE-REGIS-KATUALA-2024-PDF-Copie-.pdf", 
+      link: "/THESE-REGIS-KATUALA-2024-PDF-Copie-.pdf", 
       title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des états-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
       year: "2020",
       publisher: "Université de Kisangani Faculté de Droit",
