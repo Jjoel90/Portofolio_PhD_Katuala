@@ -91,7 +91,7 @@ export const Publications = () => {
       id: 9,
       type: 'article',
       link: "/MEMOIRE-MASTER-KATUALA-GIZE.pdf", 
-      title: "L'état congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
+      title: "L'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
       description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
