@@ -94,7 +94,7 @@ export const Publications = () => {
       title: "L'État congolais face à l'obligation de protéger les populations civiles victimes des conflits armés de l'Ituri et du Nord-Kivu (2014 à 2023)",
       year: "2024",
       publisher: "Université Catholique de Graben L2 LMD Droit",
-      description: "L'état congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
+      description: "L'État congolais doit renforcer les mécanismes défensifs et préventifs de la RDC pour se prémunir contre les violations des droits de l'homme et du DIH pendant les conflits armés."
     },
     {
       id: 10,
