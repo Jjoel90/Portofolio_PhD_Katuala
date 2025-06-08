@@ -100,7 +100,7 @@ export const Publications = () => {
       id: 10,
       type: 'article',
       link: "/THESE-REGIS-KATUALA-2024-PDF-Copie-.pdf", 
-      title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des États-unis d'amérique et de l'union européenne à l'encontre des autorités congolaise",
+      title: "Sanctions ciblées et souveraineté des états: Autopsie des actes unilateraux des États-unis d'amérique et de l'union européenne à l'encontre des autorités congolaises",
       year: "2020",
       publisher: "Université de Kisangani Faculté de Droit",
       description: "Ces sanctions ont suscité des réactions chez les autorités congolaises et ont généré une controverse juridique."
