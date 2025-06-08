@@ -41,7 +41,7 @@ export const Expertise = () => {
           <ExpertiseCard 
             icon={<Users size={40} />}
             title="Professeur des Universités"
-            description="Enseignant de droit internal public, de droits de l'homme et encadrement des recherches doctorales."
+            description="Enseignant de droit international public, de droits de l'homme et encadrement des recherches doctorales."
           />
           
           <ExpertiseCard 
