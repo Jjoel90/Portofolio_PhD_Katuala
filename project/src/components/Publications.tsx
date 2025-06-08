@@ -18,7 +18,7 @@ export const Publications = () => {
     {
       id: 1,
       type: 'cours',
-      link: "/Cours droits de l'homme.pdf",
+      link: "/Cours-droits-de-l'homme-pdf",
       title: "Cours de Droits de l'homme",
       year: "2025",
       publisher: "Université Mapon L1 LMD",
