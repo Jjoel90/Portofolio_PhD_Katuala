@@ -64,7 +64,7 @@ export const Testimonials = () => {
             </div>
             
             <div className="pt-4">
-              <p className="text-lg md:text-xl italic mb-8">
+              <p className="text-lg md:text-xl italic mb-8 ">
                 "{current.content}"
               </p>
               
