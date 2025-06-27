@@ -58,7 +58,7 @@ export const Testimonials = () => {
         </h2>
         
         <div className="max-w-4xl mx-auto ">
-          <div className="relative bg-slate-800 rounded-xl p-8 md:p-10 shadow-xl">
+          <div className="relative bg-slate-800 rounded-xl p-8 md:p-10 shadow-xl ">
             <div className="absolute -top-6 left-10 text-amber-500">
               <Quote size={48} />
             </div>
