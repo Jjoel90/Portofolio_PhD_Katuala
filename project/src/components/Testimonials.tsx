@@ -28,7 +28,7 @@ export const Testimonials = () => {
     {
       id: 3,
       content: "J'ai connu Maître Régis KATUALA GIZE comme son Co-directeur lorsqu'il rédigeait son mémoire de thèse. Son enthousiasme, son implication et sa motivation m'ont convaincu. Je pense qu'il est l'un des meilleurs de sa génération.",
-      author: "Junior Mumbala Abelungu",
+      author: "Junior Mumbala Abelungu ",
       position: "Docteur en Droit Iternational Humanitaire à l'Université de Gant en Belgique, Professeur de Droit à l'Université de Lubumbashi, Doyen de la Faculté de Droit de l'Université Protestante de Lubumbashi en RDC",
       image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059171/Junior-M-A_uo7cfu.png"
     }
