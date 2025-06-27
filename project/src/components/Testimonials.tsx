@@ -13,7 +13,7 @@ export const Testimonials = () => {
   const testimonials: Testimonial[] = [
     {
       id: 1,
-      content: "J'ai été directeur de mémoire de thèse de Maître Régis KATUALA GIZE. Sa soif d'apprendre et son incroyable mémoire font de lui une personne à part.",
+      content: "J'ai été directeur de mémoire de thèse de Maître Régis KATUALA GIZE. Sa soif d'apprendre et son incroyable mémoire font de lui une personne à part. ",
       author: "Dr. Mwayila Tshiyembe",
       position: "Docteur en Droit à l'Université de Nice Sophie Antipolis et Docteur en science politique à l'Université de Nancy 2, enseignant aux Universités Paris-XII en France, Université de Lubumbashi en RDC",
       image: "https://res.cloudinary.com/dkvtklfki/image/upload/v1749059222/Prof-Mwayila_ryrqb1.png"
@@ -23,7 +23,7 @@ export const Testimonials = () => {
       content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
       author: "Batonnier Jean-Paul KAGHOMA ",
       position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo ",
-      image: "/public/images/Batonnier-Tshopo.png"
+      image: "/public/images/Batonnier-Tshopo.png " 
     },
     {
       id: 3,
@@ -77,7 +77,7 @@ export const Testimonials = () => {
                   />
                 </div>
                 <div>
-                  <h4 className="font-bold text-amber-400">{current.author}</h4>
+                  <h4 className="font-bold text-amber-400 ">{current.author}</h4>
                   <p className="text-slate-400 text-sm">{current.position}</p>
                 </div>
               </div>
