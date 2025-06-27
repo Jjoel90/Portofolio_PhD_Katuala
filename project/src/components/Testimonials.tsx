@@ -51,7 +51,7 @@ export const Testimonials = () => {
   const current = testimonials[currentIndex];
 
   return (
-    <section className="py-20 bg-slate-900 text-white ">
+    <section className=" py-20 bg-slate-900 text-white ">
       <div className="container mx-auto px-4 md:px-6 ">
         <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-16 ">
           <span className="inline-block pb-2 border-b-2 border-amber-600 "> Témoignages </span>
@@ -69,7 +69,7 @@ export const Testimonials = () => {
               </p>
               
               <div className="flex items-center">
-                <div className="w-12 h-12 rounded-full overflow-hidden mr-4">
+                <div className="w-12 h-12 rounded-full overflow-hidden mr-4 ">
                   <img 
                     src={current.image} 
                     alt={current.author}
