@@ -20,7 +20,7 @@ export const Testimonials = () => {
     },
     {
       id: 2,
-      content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables.",
+      content: "J'ai eu le privilège de collaborer avec Me. KATUALA sur plusieurs affaires complexes. Sa rigueur intellectuelle et son engagement pour la justice sont remarquables. ",
       author: "Batonnier Jean-Paul KAGHOMA ",
       position: "Avocat aux Barreaux du Haut-Uélé et de la Tshopo ",
       image: "/public/images/Batonnier-Tshopo.png " 
