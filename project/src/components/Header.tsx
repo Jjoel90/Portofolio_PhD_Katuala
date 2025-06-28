@@ -93,7 +93,7 @@ export const Header = () => {
             </a>
             <a 
               href="#expertise" 
-              className="text-slate-700 hover:text-amber-700 transition-colors"
+              className="text-slate-700 hover:text-amber-700 transition-colors "
               onClick={() => setIsMenuOpen(false)}
             >
               Expertise
